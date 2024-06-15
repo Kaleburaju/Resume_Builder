@@ -17,21 +17,27 @@
  * Saving and Downloading: Users can usually save their work and download the resume in various formats (e.g., PDF, Word document) suitable for submitting electronically or printing.
 
 
-UML DIAGREAM :
+**UML DIAGREAM :
 
 ![Business process flow example12](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/7bafaafd-5cfd-4d8c-bc40-70fbff5cc05b)
 
 
-HOME PAGE
+**HOME PAGE :
 
 ![slide1](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/1b6e84a4-d624-4768-9c1c-00856faddbe1)
 
-Login page
+**Login page :
 
 ![slide5](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/719bc483-81bb-44a9-b693-f4dd6b3b37f1)
 
-resume selection
+**resume selection :
 
 ![slide4](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/1aa895bd-4b19-4e65-9f31-3762066a95e8)
 
+** Resume Builder Page :
 
+![slide6](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/1cb4e083-6626-4d45-bef1-3f5ffbbd2d01)
+
+**Final page :
+
+![slide7](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/d754ddaf-f0f8-4562-99db-cdbd48da4087)
