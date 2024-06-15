@@ -15,3 +15,4 @@
     sections like certifications, projects, or volunteer work.
 
  * Saving and Downloading: Users can usually save their work and download the resume in various formats (e.g., PDF, Word document) suitable for submitting electronically or printing.
+![resume_uml](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/03614a6e-78bd-44dd-b618-4d8a86e745c5)
