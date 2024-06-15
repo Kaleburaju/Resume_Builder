@@ -28,4 +28,10 @@ HOME PAGE
 
 Login page
 
-![slide2](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/089ebc55-a90d-47f8-9a1c-cb906901506c)
+![slide5](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/719bc483-81bb-44a9-b693-f4dd6b3b37f1)
+
+resume selection
+
+![slide4](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/1aa895bd-4b19-4e65-9f31-3762066a95e8)
+
+
