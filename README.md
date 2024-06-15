@@ -19,4 +19,4 @@
 
 UML DIAGREAM :
 
-![resume_uml](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/03614a6e-78bd-44dd-b618-4d8a86e745c5)
+![Business process flow example](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/7a9a4a3f-0081-4bdb-894d-511352ba566f)
