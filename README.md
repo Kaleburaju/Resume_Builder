@@ -25,3 +25,7 @@ UML DIAGREAM :
 HOME PAGE
 
 ![slide1](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/1b6e84a4-d624-4768-9c1c-00856faddbe1)
+
+Login page
+
+![slide2](https://github.com/Kaleburaju/Resume_Builder/assets/143511729/089ebc55-a90d-47f8-9a1c-cb906901506c)
